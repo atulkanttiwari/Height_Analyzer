@@ -1,5 +1,8 @@
 # 📏 Height Predictor (R² 86%+)
 
+## App Link -
+https://heightanalyzer-ku8jarcl5ik2eblc858axo.streamlit.app/
+
 This project is a high-accuracy Height Prediction system built using **Scikit-Learn** and deployed via **Streamlit**. By leveraging **Polynomial Regression** and including **Gender** as a key feature, the model achieves a precision of over 86%.
 
 ## 🚀 Overview
