@@ -1,0 +1,12 @@
+# Ignore the Jupyter Notebook
+SimpleLinearRegression.ipynb
+
+# Ignore the raw dataset
+height-weight.csv
+
+# Optional but recommended: Ignore jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
